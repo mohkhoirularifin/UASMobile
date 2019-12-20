@@ -4,5 +4,14 @@
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
 
+    <string name="slide_1_title">Hello Friends!</string>
+    <string name="slide_1_desc">Cara Mudah Untuk Melupakan Masalah Hidup Dengan Bermain Kuis!</string>
+
+    <string name="slide_2_title">Pengetahuan</string>
+    <string name="slide_2_desc">Pengetahuan Sangat Dibutuhkan Dalam Menjalankan Kuis!</string>
+
+    <string name="slide_3_title">Me</string>
+    <string name="slide_3_desc">Berisi tentang data diri Owner dan Social Media Owner!</string>
+
     <string name="polinema_mobile">POLINEMA MOBILE</string>
 </resources>

@@ -37,8 +37,7 @@ public class WelcomeActivity extends AppCompatActivity {
         layouts = new int[]{
                 R.layout.welcome_slide1,
                 R.layout.welcome_slide2,
-                R.layout.welcome_slide3,
-                R.layout.welcome_slide4};
+                R.layout.welcome_slide3};
 
         addBottomDots(0);
 
@@ -98,6 +97,7 @@ public class WelcomeActivity extends AppCompatActivity {
         finish();
     }
 
+    //  viewpager change listener
     ViewPager.OnPageChangeListener viewPagerPageChangeListener = new ViewPager.OnPageChangeListener() {
 
         @Override
@@ -163,4 +163,5 @@ public class WelcomeActivity extends AppCompatActivity {
             container.removeView(view);
         }
     }
+
 }
