@@ -1,9 +1,5 @@
 package com.example.uasmobile.activities;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.viewpager.widget.PagerAdapter;
-import androidx.viewpager.widget.ViewPager;
-
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,6 +10,10 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.viewpager.widget.PagerAdapter;
+import androidx.viewpager.widget.ViewPager;
 
 import com.example.uasmobile.R;
 
@@ -37,8 +37,7 @@ public class WelcomeActivity extends AppCompatActivity {
         layouts = new int[]{
                 R.layout.welcome_slide1,
                 R.layout.welcome_slide2,
-                R.layout.welcome_slide3,
-                R.layout.welcome_slide4};
+                R.layout.welcome_slide3};
 
         addBottomDots(0);
 
