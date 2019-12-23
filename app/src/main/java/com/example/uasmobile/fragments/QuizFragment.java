@@ -1,7 +1,6 @@
 package com.example.uasmobile.fragments;
 
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -102,8 +101,8 @@ public class QuizFragment extends Fragment {
                         PilihanD.setText(pilihan_jawaban[(nomor * 4) + 3]);
                     } else {
                         hasil = benar * 20;
-                        Intent selesai = new Intent(QuizFragment.this.getActivity(), HasilKuis.class);
-                        startActivity(selesai);
+//                        Intent selesai = new Intent(QuizFragment.this.getActivity(), HasilKuis.class);
+//                        startActivity(selesai);
                     }
                 }
                 else{
