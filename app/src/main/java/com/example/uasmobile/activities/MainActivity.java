@@ -8,9 +8,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import com.example.uasmobile.R;
+import com.example.uasmobile.fragments.MeFragment;
+import com.example.uasmobile.fragments.PengetahuanFragment;
+import com.example.uasmobile.fragments.QuizFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements
+        BottomNavigationView.OnNavigationItemSelectedListener{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 fragment = new PengetahuanFragment();
                 break;
             case R.id.action_matematika:
-                fragment = new MatematikaFragment();
+                fragment = new MeFragment();
                 break;
         }
         return loadFragment(fragment);
