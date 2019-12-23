@@ -19,7 +19,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class RegisterActivity extends AppCompatActivity {
 
-    private EditText edtEmail, edtPassword;
+    private EditText edtEmail,edtPassword;
     private Button btnRegister;
     private FirebaseAuth auth;
 
@@ -29,13 +29,7 @@ public class RegisterActivity extends AppCompatActivity {
         setContentView(R.layout.activity_register);
 
         initView();
-    }
-
-    private void initView(){
-        edtEmail = findViewById(R.id.edt_email_register);
-        edtPassword = findViewById(R.id.edt_password_register);
-        btnRegister = findViewById(R.id.btn_sign_up);
-        auth = FirebaseAuth.getInstance();
+        registerUser();
     }
 
     private void registerUser() {
@@ -83,5 +77,12 @@ public class RegisterActivity extends AppCompatActivity {
                 }
             }
         });
+    }
+
+    private void initView() {
+        edtEmail = findViewById(R.id.edt_email_register);
+        edtPassword = findViewById(R.id.edt_password_register);
+        btnRegister = findViewById(R.id.btn_sign_up);
+        auth = FirebaseAuth.getInstance();
     }
 }
