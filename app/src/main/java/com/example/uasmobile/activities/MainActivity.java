@@ -1,5 +1,6 @@
 package com.example.uasmobile.activities;
 
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.MenuItem;
 
@@ -16,10 +17,16 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 public class MainActivity extends AppCompatActivity implements
         BottomNavigationView.OnNavigationItemSelectedListener{
 
+    MediaPlayer audioBackground;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        audioBackground = MediaPlayer.create(this, R.raw.my_sound);
+        audioBackground.setLooping(true);
+        audioBackground.setVolume(1,1);
+        audioBackground.start();
+
         loadFragment(new QuizFragment());
         BottomNavigationView bottomNavigationView = findViewById(R.id.navigation);
         // beri listener pada saat item/menu bottomnavigation terpilih
