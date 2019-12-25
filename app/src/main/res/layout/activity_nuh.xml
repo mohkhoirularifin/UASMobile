@@ -89,7 +89,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:clickable="true"
-                        android:text="\nBaca Kisah Lebih Lengkap:"
+                        android:text="\nBaca Kisah Lebih Lengkap:\n"
                         android:textColor="@color/logoblack"
                         android:textSize="15sp"
                         android:textStyle="bold"
