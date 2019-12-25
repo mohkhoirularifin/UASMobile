@@ -1,8 +1,10 @@
-package com.example.uasmobile.fragments;
+package com.example.uasmobile.nabi;
+
+import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+import com.example.uasmobile.R;
 
 public class IbrahimActivity extends AppCompatActivity {
 
