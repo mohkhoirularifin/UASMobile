@@ -36,11 +36,14 @@
     <string name="kisah3">Nabi Musa adalah seorang rasul dan nabi pilihan Allah yang diutus menghadap kepada kaum Firaun, serta diutus membebaskan Bani Israel menghadapi penindasan bangsa Mesir. nabi Musa dikenal sebagai perantara dalam hal pengajaran agama dan pengampunan dosa untuk Bani Israel. Musa bergelar Kalimullah (seseorang yang berbicara dengan Allah).
         Nabi Musa merupakan figur yang paling sering disebut di kitab Al-Quran, yakni sebanyak 136 kali serta termasuk golongan Rasul Ulul Azmi.\n
         Musa dilahirkan di negeri Mesir sewaktu Bani Israel tinggal sebagai bangsa pendatang sejak zaman Nabi Yusuf. Imran dan Yukhabad merupakan kedua orang tua Musa yang berasal dari Suku Lawy. Nabi Musa merupakan adik kandung Nabi Harun dan Miryam.\n</string>
+    <string name="kisah4">Isa (bahasa Arab: عيسى, `Īsā; Essa; sekitar 1 - 32M) adalah nabi penting dalam agama Islam dan merupakan salah satu dari Ulul Azmi. Dalam Al-Quran, ia disebut Isa bin Maryam atau Isa al-Masih. Ia diangkat menjadi nabi pada tahun 29 M dan ditugaskan berdakwah kepada Bani Israil di Palestina.\n
+        Namanya disebutkan sebanyak 25 kali di dalam Al-Quran. Cerita tentang Isa kemudian berlanjut dengan pengangkatannya sebagai utusan Allah, penolakan oleh Bani Israil dan berakhir dengan pengangkatan dirinya ke surga.\n</string>
 
     <!-- Sub Kisah -->
     <string name="subkisah">Genealogi</string>
     <string name="subkisah2">Kelahiran Nabi Musa</string>
     <string name="subkisah3">Kehidupan di Istana Mesir</string>
+    <string name="subkisah4">Kelahiran Nabi Isa</string>
 
     <!-- Kisah Paragraf 2 -->
     <string name="kisahlanjut">\nDalam periwayatan agama Islam, nabi Nuh merupakan Rasul ketiga sesudah nabi Adam, dan nabi Idris. Ia termasuk dalam generasi kesepuluh umat manusia atau keturunan kesembilan dari nabi Adam melalui nabi Syits, nabi Nuh adalah putra Lamik bin Mutawasylah bin Idris bin Yarid bin Mahlail bin Qainan bin Ainusyi bin Syits bin Adam.</string>
@@ -63,6 +66,9 @@
         Yukhabad menempatkan sang anak dalam sebuah tabut yang ia temukan lalu melepas tabut itu sambil berdoa supaya Allah selalu menjaga keselamatan anak tersebut agar kembali kepada keluarganya, seraya supaya kelak diperkenan sebagai hamba yang berbakti kepada Allah.\n
         Yukhabad mengakui bukti kebenaran pertanda nubuat Miryam lalu menyuruh gadis itu mengikuti ke mana tabut akan menepi. Miryam pun mendapati dari kejauhan sewaktu istri Firaun sedang menarik tubuh adiknya dari perairan seraya wanita itu berkata "Musa, Musa." Miryam menduga hal ini merupakan pertanda buruk sehingga ia khawatir tentang keselamatan Musa. Miryam bersegera mendekat ke tengah kerumunan wanita yang hendak menyusui Musa, supaya memastikan apa yang akan terjadi pada sang adik.
         Tatkala Musa tidak mau menerima penyusuan dari siapapun; Miryam menyadari bahwa hal ini merupakan cara Allah untuk mengembalikan Musa ke ibu kandungnya, kemudian Miryam menawarkan bantuan supaya menghadirkan seorang wanita yang sanggup menyusui Musa. Ketika Yukhabad dipertemukan kembali dengan anaknya, perasaan sang ibu menjadi lega dan bersyukur bahwa Allah telah memenuhi janji tentang Musa; sehingga Yukhabad dapat mengasuh Musa, putra kandungnya.\n</string>
+    <string name="kisahlanjut4">\nNarasi Quran tentang Isa dimulai dari kelahiran Maryam sebagai putri dari Imran, berlanjut dengan tumbuh kembangnya dalam asuhan Zakariya, serta kelahiran Yahya. Kemudian Al-Quran menceritakan keajaiban kelahiran Isa sebagai anak Maryam tanpa ayah.\n
+        “(Ingatlah), ketika Malaikat berkata: "Hai Maryam, seungguhnya Allah menggembirakan kamu (dengan kelahiran seorang putera yang diciptakan) dengan kalimat (yang datang) daripada-Nya, namanya Al Masih Isa putera Maryam, seorang terkemuka di dunia dan di akhirat dan termasuk orang-orang yang didekatkan (kepada Allah). (Ali Imran: 45)”\n
+        Dikisahkan pula bahwa selama Isa berada didunia, ia tidak menikahi seorang wanita karena ia terlebih dahulu diangkat oleh Allah kelangit. Akan tetapi, ada riwayat yang mengatakan bahwa Isa akan menikah dengan salah satu umat Muhammad ketika ia turun dari langit, kejadian ini dikisahkan menjelang akhir zaman.</string>
 
     <!-- Kisah Paragraf 3 -->
     <string name="kisahdakwah">\nSebelum mendapat tugas kerasulan,nabi Nuh merupakan seorang yang tekun, gemar bersyukur, dan beriman kepada Allah. Sementara itu, sebagian besar umat manusia di zamannya merupakan orang-orang kafir yang menganggap kedudukan sang nabi tidak lebih terhormat dibanding diri mereka.
@@ -85,6 +91,18 @@
         Musa tidak seperti para pemuka kaum Firaun yang tidak mengimani Allah sehingga kaum pemuka Firaun mengalami kesulitan untuk memahami peninggalan berharga ini. Mewarisi Hikmah-Hikmah Yusuf, sosok Musa yang masih muda memiliki kebijaksanaan mengungguli kaum tetua di Mesir.\n
         Seisi istana raja Firaun merasa heran terhadap Musa yang sanggup menyingkapkan berbagai perkara rumit sebagaimana kemampuan istimewa nabi Yusuf, sehingga kaum Firaun mulai menduga bahwa Musa merupakan anak laki-laki yang pernah diramalkan. Akan tetapi salah seorang pemuka dalam kaum Firaun menyatakan bahwa perlu ada pembuktian tentang kebenaran dugaan ini. Pemuka itu menyuruh Musa supaya memilih antara bara api yang panas atau batu permata.
         Tatkala Musa memilih bara api, kaum Firaun meyakini bahwa Musa bukanlah orang yang diramalkan. Setelah itu, Musa tidak lagi dihadirkan di tengah-tengah para pemuka kaum Firaun sebab mereka merasa malu apabila raja Firaun yang telah mengaku dewa kemudian dipimpin oleh Musa, berbeda dengan Raja Mesir terdahulu yang bersedia dipimpin oleh nabi Yusuf.</string>
+    <string name="kisahdakwah4">\nMuslim percaya pada konsep kesucian Maryam, yang telah diceritakan sepanjang dalam beberapa ayat dalam Al Quran. Menurut kisah di Al-Quran, Maryam selalu beribadah dan telah dikunjungi oleh malaikat Jibril. Jibril mengatakan kepada Maryam tentang akan diberikan calon anak yang bernama Isa, Maryam sangat terkejut, karena ia telah bersumpah untuk menjaga kesuciannya kepada Allah dan tetap mempertahankan hal itu dan bagaimana pula dia bisa hamil tanpa seorang lelaki,
+        lalu Jibril menenangkan Maryam dan mengatakan bahwa perkara ini adalah perkara yang mudah bagi Allah, yang ingin membuat dia sebagai tanda untuk manusia dan rahmat dari-Nya. Seperti halnya dalam konsep penciptaan Adam tanpa ibu dan bapak.\n
+        Pembicaraan mereka terekam dalam salah satu surah di dalam Al-Quran\n
+        “Jibril berkata; "Demikianlah". Tuhanmu berfirman: "Hal itu adalah mudah bagiKu; dan agar dapat Kami menjadikannya suatu tanda bagi manusia dan sebagai rahmat dari Kami; dan hal itu adalah suatu perkara yang sudah diputuskan". (surat Maryam: 21)”\n
+        “...Maha Suci Dia. Apabila Dia telah menetapkan sesuatu, maka Dia hanya berkata kepadanya: "Jadilah", maka jadilah ia. (Maryam: 35)”\n
+        Beberapa ayat lain terkait dengan kelahiran Isa antara lain\n
+        “Sesungguhnya misal (penciptaan) Isa di sisi Allah, adalah seperti (penciptaan) Adam. Allah menciptakan Adam dari tanah, kemudian Allah berfirman kepadanya "Jadilah" (seorang manusia), maka jadilah dia. (Ali Imran: 59)”\n
+        “...dan (ingatlah kisah) Maryam yang telah memelihara kehormatannya, lalu Kami tiupkan ke dalam (tubuh)nya ruh dari Kami dan Kami jadikan dia dan anaknya tanda (kekuasaan Allah) yang besar bagi semesta alam (Al Anbiyaa: 21)”\n
+        Setelah Isa berada di dalam rahim Maryam, ia lalu mengasingkan diri dari keluarganya ke suatu tempat di sebelah timur. Disana ia melahirkan dan beristirahat di dekat sebuah batang pohon kurma. Isa kemudian berbicara memerintahkan ibunya dari buaian, untuk mengguncangkan pohon untuk mengambil buah-buah yang berjatuhan, dan juga untuk menghilangkan rasa takut Maryam dari lingkungan sekelilingnya Maryam berzinah, kemudian Maryam menunjuk kepada anaknya yang baru lahir itu, maka Isa pun menjawab\n
+        “Sesungguhnya aku ini hamba Allah, Dia memberiku Alkitab (Injil) dan Dia menjadikan aku seorang nabi; dan Dia menjadikan aku seorang yang diberkati di mana saja aku berada dan Dia memerintahkan kepadaku (mendirikan) salat dan (menunaikan) zakat selama aku hidup; dan berbakti kepada ibuku, dan Dia tidak menjadikan aku seorang yang sombong lagi celaka.. (Maryam: 30-32)”\n
+        Referensi dalam hadits lain adalah: "Ketika setiap manusia lahir. Setan menyentuh seorang bayi di kedua sisi tubuh dengan dua jarinya, kecuali Isa, putera Maryam, Setan mencoba menyentuhnya tetapi gagal, karena dia hanya menyentuh plasentanya saja."\n
+        Menurut al-Tabari, hal ini disebabkan karena doa Maryam: "Aku berlindung kepada-Mu, untuk dia dan keturunannya dari setan yang terkutuk."</string>
 
     <!-- Link Baca Lebih Lanjut -->
     <string name="bacalanjutan">
@@ -93,6 +111,8 @@
     <a href="https://id.wikipedia.org/wiki/Ibrahim">https://id.wikipedia.org/wiki/Ibrahim</a> </string>
     <string name="bacalanjutan3">
     <a href="https://id.wikipedia.org/wiki/Nabi_Musa">https://id.wikipedia.org/wiki/Nabi_Musa</a> </string>
+    <string name="bacalanjutan4">
+    <a href="https://id.wikipedia.org/wiki/Isa">https://id.wikipedia.org/wiki/Isa</a> </string>
 
     --Fragments Bio--
     <string name="ululazmi">Nabi Ulul Azmi</string>

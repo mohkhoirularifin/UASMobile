@@ -12,6 +12,7 @@ import androidx.fragment.app.Fragment;
 
 import com.example.uasmobile.R;
 import com.example.uasmobile.nabi.Ibrahim;
+import com.example.uasmobile.nabi.Isa;
 import com.example.uasmobile.nabi.Musa;
 import com.example.uasmobile.nabi.Nuh;
 
@@ -40,6 +41,7 @@ public class PengetahuanFragment extends Fragment {
         ImageButton ib1 = (ImageButton) v.findViewById(R.id.nuh);
         ImageButton ib2 = (ImageButton) v.findViewById(R.id.ibrahim);
         ImageButton ib3 = (ImageButton) v.findViewById(R.id.musa);
+        ImageButton ib4 = (ImageButton) v.findViewById(R.id.isa);
 
         ib1.setOnClickListener(new View.OnClickListener() {
 
@@ -65,6 +67,15 @@ public class PengetahuanFragment extends Fragment {
             public void onClick(View view) {
                 Intent int3 = new Intent(PengetahuanFragment.this.getActivity(), Musa.class);
                 startActivity(int3);
+            }
+
+        });
+        ib4.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                Intent int4 = new Intent(PengetahuanFragment.this.getActivity(), Isa.class);
+                startActivity(int4);
             }
 
         });
