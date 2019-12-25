@@ -6,11 +6,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.uasmobile.R;
 
-public class IsaFragment extends AppCompatActivity {
+public class Ibrahim extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_isa_fragment);
+        setContentView(R.layout.activity_ibrahim);
     }
 }

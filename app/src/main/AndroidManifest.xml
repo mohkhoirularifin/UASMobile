@@ -9,11 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".nabi.MuhammadActivity"></activity>
-        <activity android:name=".nabi.IsaFragment" />
-        <activity android:name=".nabi.MusaActivity" />
-        <activity android:name=".nabi.IbrahimActivity" />
-        <activity android:name=".nabi.NuhActivity" />
+        <activity android:name=".nabi.UlulAzmi"></activity>
+        <activity android:name=".nabi.Muhammad" />
+        <activity android:name=".nabi.Isa" />
+        <activity android:name=".nabi.Musa" />
+        <activity android:name=".nabi.Ibrahim" />
+        <activity android:name=".nabi.Nuh" />
         <activity android:name=".activities.RegisterActivity" />
         <activity android:name=".activities.LoginActivity" />
         <activity android:name=".activities.WelcomeActivity" />

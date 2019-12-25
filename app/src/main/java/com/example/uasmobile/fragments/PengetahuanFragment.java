@@ -11,7 +11,7 @@ import android.widget.ImageButton;
 import androidx.fragment.app.Fragment;
 
 import com.example.uasmobile.R;
-import com.example.uasmobile.nabi.NuhActivity;
+import com.example.uasmobile.nabi.Nuh;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -41,7 +41,7 @@ public class PengetahuanFragment extends Fragment {
 
             @Override
             public void onClick(View view) {
-                Intent int1 = new Intent(PengetahuanFragment.this.getActivity(), NuhActivity.class);
+                Intent int1 = new Intent(PengetahuanFragment.this.getActivity(), Nuh.class);
                 startActivity(int1);
             }
 

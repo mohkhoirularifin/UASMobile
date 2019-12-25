@@ -6,11 +6,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.uasmobile.R;
 
-public class MusaActivity extends AppCompatActivity {
+public class UlulAzmi extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_musa);
+        setContentView(R.layout.activity_ulul_azmi);
     }
 }

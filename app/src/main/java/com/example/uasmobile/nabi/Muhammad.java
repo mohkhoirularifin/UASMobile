@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.uasmobile.R;
 
-public class MuhammadActivity extends AppCompatActivity {
+public class Muhammad extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
