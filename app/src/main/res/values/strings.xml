@@ -144,6 +144,8 @@
 
     --Fragments Bio--
     <string name="ululazmi">Nabi Ulul Azmi</string>
+    <string name="owner">Moh. Khoirul Arifin</string>
+    <string name="riwayat">Riwayat Pendidikan</string>
     <string name="ululazmi2">Ulul Azmi (bahasa Arab: أولوالعزم‎, Ulu al-Azmi) adalah sebuah gelar khusus bagi golongan rasul pilihan yang mempunyai ketabahan luar biasa. Terdapat lima rasul yang mendapatkan gelar Ulul Azmi, yakni Nuh, Ibrahim, Musa, Isa dan Muhammad. Gelar Ulul Azmi dijelaskan dalam Surah Al-Ahqaf ayat ke-35 dan Asy-Syura ayat ke-13.</string>
     <string name="nuh">Nabi Nuh AS</string>
     <string name="ibrahim">Nabi Ibrahim AS</string>
@@ -178,5 +180,14 @@
             \n\nKehadiran Muhammad merupakan penggenapan para nabi yang telah Allah utus ke tengah-tengah umat manusia. Muhammad terlahir serta dibesarkan sebagai seorang Arab. Allah menyelamatkan Muhammad sewaktu menghadapi masa-masa sulit. Setelah menjadi seorang Rasul Allah, dakwah Muhammad menghadapi penentangan dari kaum kafir karena nabi dianggap menyebarkan ajaran untuk mengganti tradisi leluhur.
             Walaupun dakwah nabi didustakan, hingga diusir oleh kaum kafir yang berakibat hijrah ke Madinah, Allah senantiasa mengaruniakan perlindungan maupun pertolongan yang menyertai nabi bersama orang-orang beriman. Beberapa waktu kemudian;
             Allah memberi perintah kepada nabi Muhammad beserta orang-orang beriman supaya maju berperang melawan golongan kafir maupun golongan yang telah mengusir mereka, supaya Allah menimpakan hukuman pedih kepada orang-orang kafir melalui tangan orang-orang beriman, sampai ketika kubu Muhammad bersama orang-orang beriman memperoleh pertolongan disertai kemenangan dari sisi Allah. Setelah itu, orang-orang beriman mengadakan perjanjian damai terhadap kaum yang tidak beriman bahwasanya kaum itu takkan menganggu orang-orang beriman. Muhammad bersama kaum beriman yang menyertai dirinya memiliki watak keras terhadap kaum kafir namun akrab terhadap sesama orang beriman.\n</string>
+
+    <string name="bioowner">\nNama Asli: Moh. Khoirul Arifin\nTTL : Nganjuk, 22 November1998\n</string>
+    <string name="riwayatpend">\n1. TK Dharma Wanita Pandean\n
+            2. SDN Pandean 1            (2005-2011)\n
+            3. MTs. Al Huda Gondang     (2011-2014)\n
+            4. MAN 2 Nganjuk            (2014-2017)\n
+            5. Politeknik Negeri Malang (2017 - sekarang)</string>
+    <string name="penutup">\nTerima Kasih untuk semuanya yang telah membantu dalam melaksanakan perkuliahan mobile.\n</string>
+
     <string name="title_edittext_preference">Edittext Preference</string>
 </resources>
