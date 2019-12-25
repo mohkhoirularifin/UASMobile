@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_margin="15dp"
-    android:background="@color/pink"
-    tools:context=".fragment.QuizFragment">
+    android:background="@color/white"
+    tools:context=".fragments.QuizFragment">
 
     <TextView
         android:layout_width="wrap_content"

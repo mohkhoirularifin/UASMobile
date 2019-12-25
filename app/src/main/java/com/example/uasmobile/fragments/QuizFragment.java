@@ -1,6 +1,7 @@
 package com.example.uasmobile.fragments;
 
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,6 +15,7 @@ import android.widget.Toast;
 import androidx.fragment.app.Fragment;
 
 import com.example.uasmobile.R;
+import com.example.uasmobile.util.HasilKuis;
 
 
 /**
@@ -29,29 +31,44 @@ public class QuizFragment extends Fragment {
 
     //pertanyaan
     String[] pertanyaan_kuis = new String[]{
-            "1. Presiden Indonesia yang keenam adalah",
-            "2. Lambang Negara Indonesia adalah",
-            "3. Ibukota Indonesia adalah",
-            "4. Lagu Kebangsaan Indonesia adalah",
-            "5. Bendera Negara Indonesia adalah"
+            "Berapakah Nabi yang termasuk dalam Ulul Azmi?",
+            "Istri Nabi Ibrahim yang Pertama adalah...",
+            "Siapa Nama Ibu Nabi Isa?",
+            "Pada masa siapakah Nabi Musa Lahir",
+            "Siapakah nabi yang dikorbankan oleh Nabi Ibrahim karena perintah Allah?",
+            "Siapakah nama anak Nabi Nuh yang menentang ajaran Nabi Nuh?",
+            "Pada tanggal berapakah nabi Muhammad lahir??",
+            "Siapakah nama paman nabi Muhammad SAW yang merawatnya?",
+            "Pada umur berapakah Nabi Muhammad diangkat menjadi Rasul?",
+            "Siapa nama Ratu Mesir yang mengangkat Nabi Musa AS menjadi putranya?"
     };
 
     //pilihan jawaban a, b, c, d
     String[] pilihan_jawaban = new String[]{
-            "Soekarno", "Habibie", "Susilo Bambang Yudhoyono", "Joko Widodo",
-            "Gajah Putih", "Garuda", "Macan", "Elang",
-            "Jakarta", "Bogor", "Tangerang", "Bekasi",
-            "Indonesia Raya", "Tanah Airku", "Indonesia Pusaka", "Indonesia Merdeka",
-            "Merah Biru Putih", "Merah Putih", "Putih Merah", "Belang-belang"
+            "5", "25", "1", "15",
+            "Siti Sarah", "Siti Hajar", "Aminah", "Siti Hadijah",
+            "Siti Maryam", "Siti Hadijah", "Siti Hajar", "Siti Sarah",
+            "Raja Firaun", "Raja Namrud", "Raja Sulaiman", "Ubaidillah",
+            "Nabi Musa AS", "Nabi Isa AS", "Nabi Malik AS", "Nabi Ismail AS",
+            "Yafith", "Sam", "Ham", "Kan'an",
+            "12 Rabiul Akhir", "12 Jumadil Awal", "12 Jumadil Akhir", "12 Rabiul Awal",
+            "Abdul Muthalib", "Abu Jahal", "Abu Thalib", "Abdullah",
+            "25", "8", "45", "40",
+            "Siti Hajar", "Zaenab", "Asiyah", "Aisyah"
     };
 
     //jawaban benar
     String[] jawaban_benar = new String[]{
-            "Susilo Bambang Yudhoyono",
-            "Garuda",
-            "Jakarta",
-            "Indonesia Raya",
-            "Merah Putih"
+            "5",
+            "Siti Sarah",
+            "Siti Maryam",
+            "Raja Firaun",
+            "Nabi Ismail AS",
+            "Kan'an",
+            "12 Rabiul Awal",
+            "Abu Thalib",
+            "40",
+            "Asiyah"
     };
 
     public QuizFragment() {
@@ -100,9 +117,9 @@ public class QuizFragment extends Fragment {
                         PilihanC.setText(pilihan_jawaban[(nomor * 4) + 2]);
                         PilihanD.setText(pilihan_jawaban[(nomor * 4) + 3]);
                     } else {
-                        hasil = benar * 20;
-//                        Intent selesai = new Intent(QuizFragment.this.getActivity(), HasilKuis.class);
-//                        startActivity(selesai);
+                        hasil = benar * 10;
+                        Intent selesai = new Intent(QuizFragment.this.getActivity(), HasilKuis.class);
+                        startActivity(selesai);
                     }
                 }
                 else{
