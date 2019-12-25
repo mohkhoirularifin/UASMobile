@@ -44,6 +44,7 @@
         Muhammad bersama pengikut awal mendapati berbagai bentuk perlawanan dan penyiksaan dari beberapa suku Mekkah. Seiring penganiayaan yang terus berlanjut, Muhammad membenarkan beberapa pengikutnya hijrah ke Habsyah, sebelum Muhammad memulai misi hijrah ke Madinah pada tahun 622. Peristiwa hijrah menandai awal penanggalan Kalender Hijriah dalam Islam. Di Madinah, Muhammad menyatukan suku-suku di bawah Piagam Madinah.
         Setelah delapan tahun bertahan atas serangan suku-suku Mekkah, Muhammad mengumpulkan 10.000 Muslim untuk mengepung Mekkah. Serangan tidak mendapat perlawanan berarti dan Muhammad mengambil alih kota dengan sedikit pertumpahan darah. Ia menghancurkan berhala-hala. Pada tahun 632, beberapa bulan setelah kembali ke Madinah usai menjalani Haji Wada, Muhammad jatuh sakit dan kematian.
         Muhammad meninggalkan Semenanjung Arab yang telah bersatu dalam pemerintahan tunggal Islam dan sebagian besar telah menerima Islam.\n</string>
+    <string name="kisah6">Ulul Azmi (bahasa Arab: أولوالعزم‎, Ulu al-Azmi) adalah sebuah gelar khusus bagi golongan rasul pilihan yang mempunyai ketabahan luar biasa. Terdapat lima rasul yang mendapatkan gelar Ulul Azmi, yakni Nuh, Ibrahim, Musa, Isa dan Muhammad. Gelar Ulul Azmi dijelaskan dalam Surah Al-Ahqaf ayat ke-35 dan Asy-Syura ayat ke-13.\n</string>
 
     <!-- Sub Kisah -->
     <string name="subkisah">Genealogi</string>
@@ -51,6 +52,7 @@
     <string name="subkisah3">Kehidupan di Istana Mesir</string>
     <string name="subkisah4">Kelahiran Nabi Isa</string>
     <string name="subkisah5">Kelahiran Nabi Muhammad</string>
+    <string name="subkisah6">Sifat Ulul Azmi</string>
 
     <!-- Kisah Paragraf 2 -->
     <string name="kisahlanjut">\nDalam periwayatan agama Islam, nabi Nuh merupakan Rasul ketiga sesudah nabi Adam, dan nabi Idris. Ia termasuk dalam generasi kesepuluh umat manusia atau keturunan kesembilan dari nabi Adam melalui nabi Syits, nabi Nuh adalah putra Lamik bin Mutawasylah bin Idris bin Yarid bin Mahlail bin Qainan bin Ainusyi bin Syits bin Adam.</string>
@@ -79,6 +81,13 @@
     <string name="kisahlanjut5">\nSilsilah Muhammad dari kedua orang tuanya kembali ke Kilab bin Murrah bin Kab bin Luay bin Ghalib bin Fihr (Quraish) bin Malik bin an-Nadr (Qais) bin Kinanah bin Khuzaimah bin Mudrikah (Amir) bin Ilyas bin Mudhar bin Nizar bin Ma`ad bin Adnan. Silsilah sampai Adnan disepakati oleh para ulama, sedangkan setelah Adnan terjadi perbedaan pendapat. Adnan secara umum diyakini adalah keturunan dari Ismail bin Ibrahim, yang selanjutnya adalah keturunan Sam bin Nuh.\n
         Walaupun demikian, terdapat sejarawan yang menyusun silsilah yang lebih jauh lagi. Muhammad bin Ishak bin Yasar al-Madani, di salah satu riwayatnya menyebutkan silsilah hingga Adam. Silsilah tersebut adalah Muhammad bin Abdullah bin Abdul Mutthalib bin Hasyim bin Abdul Manaf bin Qushay bin Kilab bin Murrah bin Kaab bin Luay bin Ghalib bin Fihr (Quraisy) bin Malik bin Nadhr bin Kinanah bin Khuzayma bin Mudrikah bin Ilyas bin Mudhar bin Nizar bin Maad bin Adnan bin Udad bin al-Muqawwam bin Nahur
         bin Tayrah bin Yarub bin Yasyjub bin Nabit bin Ismail bin Ibrahim bin Tarih (Azar) bin Nahur bin Saru bin Rau bin Falikh bin Aybir bin Syalikh bin Arfakhsyad bin Sam bin Nuh bin Lamikh bin Mutusyalikh bin Akhnukh bin Yarda bin Mahlil bin Qinan bin Yanish bin Syits bin Adam.\n</string>
+    <string name="kisahlanjut6">\nKelima rasul yang mendapat gelar Ulul Azmi adalah para rasul yang memiliki keteguhan luar biasa selama menyebarkan berbagai risalah Allah. Tatkala para rasul ini harus menghadapi berbagai penentangan dari kaum-kaum yang didakwahi; para rasul ini berdoa agar Allah memberi hidayah untuk kaum-kaum tersebut. Tatkala Allah mendapati bahwa berbagai risalahNya yang disampaikan melalui para rasul ini telah secara mutlak dibantah serta diingkari oleh kaum-kaum tersebut,
+        maka Allah yang menyelamatkan para rasul ini beserta para pengikut mereka, serta Allah timpakan hukuman setimpal kepada kaum-kaum pengingkar itu.\n\n
+        Ciri-ciri Ulul Azmi adalah sebagai berikut:\n
+        - Memiliki seruan dakwah universal untuk umat manusia maupun umat jin.\n
+        - Menyampaikan syariat dan agama Allah.\n
+        - Menyampaikan kitab samawi.\n
+        - Menerima perjanjian serta "wasiat" dari Allah[4]\n</string>
 
     <!-- Kisah Paragraf 3 -->
     <string name="kisahdakwah">\nSebelum mendapat tugas kerasulan,nabi Nuh merupakan seorang yang tekun, gemar bersyukur, dan beriman kepada Allah. Sementara itu, sebagian besar umat manusia di zamannya merupakan orang-orang kafir yang menganggap kedudukan sang nabi tidak lebih terhormat dibanding diri mereka.
@@ -130,6 +139,8 @@
     <a href="https://id.wikipedia.org/wiki/Isa">https://id.wikipedia.org/wiki/Isa</a> </string>
     <string name="bacalanjutan5">
     <a href="https://id.wikipedia.org/wiki/Muhammad">https://id.wikipedia.org/wiki/Muhammad</a> </string>
+    <string name="bacalanjutan6">
+    <a href="https://id.wikipedia.org/wiki/Ulul_Azmi">https://id.wikipedia.org/wiki/Ulul_Azmi</a> </string>
 
     --Fragments Bio--
     <string name="ululazmi">Nabi Ulul Azmi</string>
@@ -163,7 +174,7 @@
             \n\nIsa merupakan satu-satunya manusia selain Adam yang dilahirkan tanpa perantaraan ayah, ia dilahirkan oleh Maryam sehingga ia dikenal sebagai Isa Ibnu Maryam (Isa putra Maryam). Allah mengaruniai kenabian Isa melalui pemberian Ruhul Qudus. Isa memiliki ketabahan dan keteguhan besar selama mendakwahkan risalah Allah; terutama ketika Isa bersabar menghadapi tuduhan sebagai penista kaum Yahudi, pengkhianatan muridnya, bahkan hendak dibunuh.
             Kehidupan Isa menggambarkan kezuhudan dan ketaatan dalam beribadah kepada Allah. Tatkala dakwah Isa telah sepenuhnya diingkari, maka Allah menyelamatkan Isa terhadap tipu daya orang-orang kafir, kemudian Allah menimpakan hukuman kepada orang-orang kafir yang telah menentang dakwah Isa.\n</string>
 
-    <string name="biomuhammad">Nama Asli: Muhammad (bahasa Arab: محمد \nTTL : Mekkah, 570M
+    <string name="biomuhammad">Nama Asli: Muhammad (bahasa Arab: محمد \nLahir : Mekkah, 570M
             \n\nKehadiran Muhammad merupakan penggenapan para nabi yang telah Allah utus ke tengah-tengah umat manusia. Muhammad terlahir serta dibesarkan sebagai seorang Arab. Allah menyelamatkan Muhammad sewaktu menghadapi masa-masa sulit. Setelah menjadi seorang Rasul Allah, dakwah Muhammad menghadapi penentangan dari kaum kafir karena nabi dianggap menyebarkan ajaran untuk mengganti tradisi leluhur.
             Walaupun dakwah nabi didustakan, hingga diusir oleh kaum kafir yang berakibat hijrah ke Madinah, Allah senantiasa mengaruniakan perlindungan maupun pertolongan yang menyertai nabi bersama orang-orang beriman. Beberapa waktu kemudian;
             Allah memberi perintah kepada nabi Muhammad beserta orang-orang beriman supaya maju berperang melawan golongan kafir maupun golongan yang telah mengusir mereka, supaya Allah menimpakan hukuman pedih kepada orang-orang kafir melalui tangan orang-orang beriman, sampai ketika kubu Muhammad bersama orang-orang beriman memperoleh pertolongan disertai kemenangan dari sisi Allah. Setelah itu, orang-orang beriman mengadakan perjanjian damai terhadap kaum yang tidak beriman bahwasanya kaum itu takkan menganggu orang-orang beriman. Muhammad bersama kaum beriman yang menyertai dirinya memiliki watak keras terhadap kaum kafir namun akrab terhadap sesama orang beriman.\n</string>

@@ -16,6 +16,7 @@ import com.example.uasmobile.nabi.Isa;
 import com.example.uasmobile.nabi.Muhammad;
 import com.example.uasmobile.nabi.Musa;
 import com.example.uasmobile.nabi.Nuh;
+import com.example.uasmobile.nabi.UlulAzmi;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -44,6 +45,7 @@ public class PengetahuanFragment extends Fragment {
         ImageButton ib3 = (ImageButton) v.findViewById(R.id.musa);
         ImageButton ib4 = (ImageButton) v.findViewById(R.id.isa);
         ImageButton ib5 = (ImageButton) v.findViewById(R.id.muhammad);
+        ImageButton ib6 = (ImageButton) v.findViewById(R.id.ululazmi);
 
         ib1.setOnClickListener(new View.OnClickListener() {
 
@@ -87,6 +89,15 @@ public class PengetahuanFragment extends Fragment {
             public void onClick(View view) {
                 Intent int5 = new Intent(PengetahuanFragment.this.getActivity(), Muhammad.class);
                 startActivity(int5);
+            }
+
+        });
+        ib6.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                Intent int6 = new Intent(PengetahuanFragment.this.getActivity(), UlulAzmi.class);
+                startActivity(int6);
             }
 
         });
