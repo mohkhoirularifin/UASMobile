@@ -38,12 +38,19 @@
         Musa dilahirkan di negeri Mesir sewaktu Bani Israel tinggal sebagai bangsa pendatang sejak zaman Nabi Yusuf. Imran dan Yukhabad merupakan kedua orang tua Musa yang berasal dari Suku Lawy. Nabi Musa merupakan adik kandung Nabi Harun dan Miryam.\n</string>
     <string name="kisah4">Isa (bahasa Arab: عيسى, `Īsā; Essa; sekitar 1 - 32M) adalah nabi penting dalam agama Islam dan merupakan salah satu dari Ulul Azmi. Dalam Al-Quran, ia disebut Isa bin Maryam atau Isa al-Masih. Ia diangkat menjadi nabi pada tahun 29 M dan ditugaskan berdakwah kepada Bani Israil di Palestina.\n
         Namanya disebutkan sebanyak 25 kali di dalam Al-Quran. Cerita tentang Isa kemudian berlanjut dengan pengangkatannya sebagai utusan Allah, penolakan oleh Bani Israil dan berakhir dengan pengangkatan dirinya ke surga.\n</string>
+    <string name="kisah5">Muhammad (bahasa Arab: محمد‎; lahir di Mekkah, 570 – meninggal di Madinah, 8 Juni 632) adalah seorang nabi dan rasul terakhir bagi umat Muslim. Muhammad memulai penyebaran ajaran Islam untuk seluruh umat manusia dan mewariskan pemerintahan tunggal Islam. Muhammad sama-sama menegakkan ajaran tauhid untuk mengesakan Allah sebagaimana yang dibawa nabi dan rasul sebelumnya.\n
+        Lahir pada tahun 570 M di Mekkah, Muhammad melewati masa kecil sebagai yatim piatu. Muhammad dibesarkan di bawah asuhan kakeknya Abdul Muthalib kemudian pamannya Abu Thalib. Beranjak remaja, Muhammad bekerja sebagai pedagang. Muhammad kadang-kadang mengasingkan diri ke gua sebuah bukit hingga bermalam-malam untuk merenung dan berdoa. Diriwayatkan dalam usia ke-40, Muhammad didatangi Malaikat Jibril dan menerima wahyu pertama dari Allah.
+        Tiga tahun setelah wahyu pertama, Muhammad mulai berdakwah secara terbuka, menyatakan keesaan Allah dalam bentuk penyerahan diri melalui Islam sebagai agama yang benar dan meninggalkan sesembahan selain Allah. Muhammad menerima wahyu berangsur-angsur hingga kematiannya. Praktik atau amalan Muhammad diriwayatkan dalam hadis, dirujuk oleh umat Islam sebagai sumber hukum Islam bersama Al-Quran.\n
+        Muhammad bersama pengikut awal mendapati berbagai bentuk perlawanan dan penyiksaan dari beberapa suku Mekkah. Seiring penganiayaan yang terus berlanjut, Muhammad membenarkan beberapa pengikutnya hijrah ke Habsyah, sebelum Muhammad memulai misi hijrah ke Madinah pada tahun 622. Peristiwa hijrah menandai awal penanggalan Kalender Hijriah dalam Islam. Di Madinah, Muhammad menyatukan suku-suku di bawah Piagam Madinah.
+        Setelah delapan tahun bertahan atas serangan suku-suku Mekkah, Muhammad mengumpulkan 10.000 Muslim untuk mengepung Mekkah. Serangan tidak mendapat perlawanan berarti dan Muhammad mengambil alih kota dengan sedikit pertumpahan darah. Ia menghancurkan berhala-hala. Pada tahun 632, beberapa bulan setelah kembali ke Madinah usai menjalani Haji Wada, Muhammad jatuh sakit dan kematian.
+        Muhammad meninggalkan Semenanjung Arab yang telah bersatu dalam pemerintahan tunggal Islam dan sebagian besar telah menerima Islam.\n</string>
 
     <!-- Sub Kisah -->
     <string name="subkisah">Genealogi</string>
     <string name="subkisah2">Kelahiran Nabi Musa</string>
     <string name="subkisah3">Kehidupan di Istana Mesir</string>
     <string name="subkisah4">Kelahiran Nabi Isa</string>
+    <string name="subkisah5">Kelahiran Nabi Muhammad</string>
 
     <!-- Kisah Paragraf 2 -->
     <string name="kisahlanjut">\nDalam periwayatan agama Islam, nabi Nuh merupakan Rasul ketiga sesudah nabi Adam, dan nabi Idris. Ia termasuk dalam generasi kesepuluh umat manusia atau keturunan kesembilan dari nabi Adam melalui nabi Syits, nabi Nuh adalah putra Lamik bin Mutawasylah bin Idris bin Yarid bin Mahlail bin Qainan bin Ainusyi bin Syits bin Adam.</string>
@@ -69,6 +76,9 @@
     <string name="kisahlanjut4">\nNarasi Quran tentang Isa dimulai dari kelahiran Maryam sebagai putri dari Imran, berlanjut dengan tumbuh kembangnya dalam asuhan Zakariya, serta kelahiran Yahya. Kemudian Al-Quran menceritakan keajaiban kelahiran Isa sebagai anak Maryam tanpa ayah.\n
         “(Ingatlah), ketika Malaikat berkata: "Hai Maryam, seungguhnya Allah menggembirakan kamu (dengan kelahiran seorang putera yang diciptakan) dengan kalimat (yang datang) daripada-Nya, namanya Al Masih Isa putera Maryam, seorang terkemuka di dunia dan di akhirat dan termasuk orang-orang yang didekatkan (kepada Allah). (Ali Imran: 45)”\n
         Dikisahkan pula bahwa selama Isa berada didunia, ia tidak menikahi seorang wanita karena ia terlebih dahulu diangkat oleh Allah kelangit. Akan tetapi, ada riwayat yang mengatakan bahwa Isa akan menikah dengan salah satu umat Muhammad ketika ia turun dari langit, kejadian ini dikisahkan menjelang akhir zaman.</string>
+    <string name="kisahlanjut5">\nSilsilah Muhammad dari kedua orang tuanya kembali ke Kilab bin Murrah bin Kab bin Luay bin Ghalib bin Fihr (Quraish) bin Malik bin an-Nadr (Qais) bin Kinanah bin Khuzaimah bin Mudrikah (Amir) bin Ilyas bin Mudhar bin Nizar bin Ma`ad bin Adnan. Silsilah sampai Adnan disepakati oleh para ulama, sedangkan setelah Adnan terjadi perbedaan pendapat. Adnan secara umum diyakini adalah keturunan dari Ismail bin Ibrahim, yang selanjutnya adalah keturunan Sam bin Nuh.\n
+        Walaupun demikian, terdapat sejarawan yang menyusun silsilah yang lebih jauh lagi. Muhammad bin Ishak bin Yasar al-Madani, di salah satu riwayatnya menyebutkan silsilah hingga Adam. Silsilah tersebut adalah Muhammad bin Abdullah bin Abdul Mutthalib bin Hasyim bin Abdul Manaf bin Qushay bin Kilab bin Murrah bin Kaab bin Luay bin Ghalib bin Fihr (Quraisy) bin Malik bin Nadhr bin Kinanah bin Khuzayma bin Mudrikah bin Ilyas bin Mudhar bin Nizar bin Maad bin Adnan bin Udad bin al-Muqawwam bin Nahur
+        bin Tayrah bin Yarub bin Yasyjub bin Nabit bin Ismail bin Ibrahim bin Tarih (Azar) bin Nahur bin Saru bin Rau bin Falikh bin Aybir bin Syalikh bin Arfakhsyad bin Sam bin Nuh bin Lamikh bin Mutusyalikh bin Akhnukh bin Yarda bin Mahlil bin Qinan bin Yanish bin Syits bin Adam.\n</string>
 
     <!-- Kisah Paragraf 3 -->
     <string name="kisahdakwah">\nSebelum mendapat tugas kerasulan,nabi Nuh merupakan seorang yang tekun, gemar bersyukur, dan beriman kepada Allah. Sementara itu, sebagian besar umat manusia di zamannya merupakan orang-orang kafir yang menganggap kedudukan sang nabi tidak lebih terhormat dibanding diri mereka.
@@ -103,6 +113,11 @@
         “Sesungguhnya aku ini hamba Allah, Dia memberiku Alkitab (Injil) dan Dia menjadikan aku seorang nabi; dan Dia menjadikan aku seorang yang diberkati di mana saja aku berada dan Dia memerintahkan kepadaku (mendirikan) salat dan (menunaikan) zakat selama aku hidup; dan berbakti kepada ibuku, dan Dia tidak menjadikan aku seorang yang sombong lagi celaka.. (Maryam: 30-32)”\n
         Referensi dalam hadits lain adalah: "Ketika setiap manusia lahir. Setan menyentuh seorang bayi di kedua sisi tubuh dengan dua jarinya, kecuali Isa, putera Maryam, Setan mencoba menyentuhnya tetapi gagal, karena dia hanya menyentuh plasentanya saja."\n
         Menurut al-Tabari, hal ini disebabkan karena doa Maryam: "Aku berlindung kepada-Mu, untuk dia dan keturunannya dari setan yang terkutuk."</string>
+    <string name="kisahdakwah5">\nPara ulama dan penulis sirah sepakat bahwa hari kelahiran Muhammad jatuh pada bulan Rabiul Awal. Muhammad lahir di Mekkah, kota bagian selatan Jazirah Arab, sekitar tahun 570, berdekatan dengan Tahun Gajah yang merupakan tahun kegagalan penyerangan Mekkah oleh pasukan bergajah di bawah pimpinan Abrahah. Pendapat paling mashyur merujuk tanggal 12 Rabiul Awal sebagai hari kelahiran Muhammad. Berdasarkan teks hadis, Muhammad menyebut hari Senin sebagai hari kelahirannya.
+        Penulis sirah Sulaiman Al-Manshurfuri dan ahli astronomi Mahmud Basya dalam penelitiannya melacak hari Senin yang dimaksud bertepatan dengan tanggal 9 Rabiul Awal.\n
+        Muhammad berasal dari salah satu klan suku Quraisy yakni Bani Hasyim yang mewarisi silsilah terhormat di Mekkah, meskipun tak terpandang karena kekayaannya. Ayahnya, Abdullah meninggal saat Muhammad masih dalam kandungan, enam bulan sebelum kelahiran. Muhammad bayi dibawa tinggal bersama keluarga dusun di pedalaman, mengikuti tradisi perkotaan kala itu untuk memperkuat fisik dan menghindarkan anak dari penyakit perkotaan. Ia diasuh dan disusui oleh Halimah binti Abi Dhuayb di kampung Bani Saad selama dua tahun.
+        Setelah itu, Muhammad kecil dikembalikan untuk diasuh kepada budak Ummu Aiman. Pada usia ke-6, Muhammad kehilangan ibunya, Aminah karena sakit. Selama dua tahun berikutnya, kebutuhan Muhammad ditanggung dan dicukupi oleh kakeknya dari keluarga ayah, Abd al-Muththalib. Ketika berusia delapan tahun, kakeknya meninggal dan Muhammad berikutnya diasuh oleh pamannya Abu Thalib yang tampil sebagai pemuka Bani Hasyim sepeninggal Abdul Muththalib.</string>
+
 
     <!-- Link Baca Lebih Lanjut -->
     <string name="bacalanjutan">
@@ -113,6 +128,8 @@
     <a href="https://id.wikipedia.org/wiki/Nabi_Musa">https://id.wikipedia.org/wiki/Nabi_Musa</a> </string>
     <string name="bacalanjutan4">
     <a href="https://id.wikipedia.org/wiki/Isa">https://id.wikipedia.org/wiki/Isa</a> </string>
+    <string name="bacalanjutan5">
+    <a href="https://id.wikipedia.org/wiki/Muhammad">https://id.wikipedia.org/wiki/Muhammad</a> </string>
 
     --Fragments Bio--
     <string name="ululazmi">Nabi Ulul Azmi</string>
