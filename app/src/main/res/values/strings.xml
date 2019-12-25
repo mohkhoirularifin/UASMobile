@@ -27,6 +27,29 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
+    <!-- Kisah Paragraf 1 -->
+    <string name="kisah">Nabi Nuh (bahasa Arab: نُوح‎ Nūḥ) adalah seorang nabi dan rasul yang diutus oleh Allah kepada umat manusia sebelum terjadinya sebuah malapetaka dahsyat yang hampir memusnahkan kehidupan di muka bumi, nabi Nuh dikenal sebagai pendiri serta penghuni bahtera sewaktu kejadian banjir bah melanda seisi bumi nabi Nuh termasuk dalam golongan Rasul Ulul Azmi.
+        Nama nabi Nuh disebut sebanyak 43 kali dalam kitab Al-Quran serta diabadikan sebagai nama sebuah surah yaitu Surah Nuh.\n</string>
+
+    <!-- Sub Kisah -->
+    <string name="subkisah">Genealogi</string>
+
+    <!-- Kisah Paragraf 2 -->
+    <string name="kisahlanjut">\nDalam periwayatan agama Islam, nabi Nuh merupakan Rasul ketiga sesudah nabi Adam, dan nabi Idris. Ia termasuk dalam generasi kesepuluh umat manusia atau keturunan kesembilan dari nabi Adam melalui nabi Syits, nabi Nuh adalah putra Lamik bin Mutawasylah bin Idris bin Yarid bin Mahlail bin Qainan bin Ainusyi bin Syits bin Adam.</string>
+
+    <!-- Kisah Paragraf 3 -->
+    <string name="kisahdakwah">\nSebelum mendapat tugas kerasulan,nabi Nuh merupakan seorang yang tekun, gemar bersyukur, dan beriman kepada Allah. Sementara itu, sebagian besar umat manusia di zamannya merupakan orang-orang kafir yang menganggap kedudukan sang nabi tidak lebih terhormat dibanding diri mereka.
+        Kaum kafir tersebut tidak mau memandang nabi Nuh sebagai sosok nabi oleh sebab mereka mempunyai lebih banyak harta maupun anak-anak, Menghadapi tantangan semacam ini,nabi Nuh tetap bertekun menyampaikan risalah Allah supaya kaumnya beriman kepada Allah serta supaya kaumnya meninggalkan penyembahan dewa-dewa,
+        selain itu nabi Nuh memperingatkan adanya ancaman dari Allah bahwa akan ada malapetaka dahsyat apabila kaum tersebut tidak mau meninggalkan kebiasaan keji yang diwarisi dari para leluhur. Kaum yang dihadapi nabi Nuh merupakan salah satu generasi manusia yang diberi umur panjang serta dilimpahi kemakmuran juga dianugerahi perawakan tubuh yang jauh lebih perkasa daripada generasi manusia pada zaman sekarang.
+        Kemakmuran duniawi di generasi nabi Nuh menimbulkan sikap angkuh serta sikap sewenang-wenang memandang diri sebagai golongan terkuat dan berkuasa, yang kemudian berujung pada keengganan serta kecongkakan untuk mengakui Tuhan sebagai Yang Maha Kuasa maupun Yang lebih berwenang atas hidup mereka. Allah menyebut kaum nabi Nuh sebagai kaum paling rusak di muka bumi.
+        Nabi Nuh sangat bertekun untuk mendakwahkan risalah Allah ke berbagai tempat di muka bumi. Baik siang dan malam,nabi Nuh berkeliling sambil berdakwah kepada kaumnya agar bersedia menuruti ajaran Allah yang disampaikan melalui dirinya. Tetapi kaum itu tidak menerima risalah-risalah tersebut, bahkan kaum itu menuduh Nuh sebagai seorang pendusta.
+        Hal ini membuat sang nabi berupaya dengan cara sembunyi-sembunyi untuk mengajak banyak orang menuruti risalah Allah. Walaupun demikian, kaum nabi Nuh justru menuduh ia merasa iri terhadap kemewahan dan kekayaan mereka sehingga nabi Nuh dianggap membutuhkan harta benda mereka; akan tetapi nabi Nuh menegaskan bahwa ia sama sekali tidak menghendaki uang mereka sebagai upah sebab upahnya berasal dari Allah.
+        Kaum kafir itu tetap berkeras melakukan tindakan keji, meski ada nabi yang berdakwah di tengah-tengah mereka.</string>
+
+    <!-- Link Baca Lebih Lanjut -->
+    <string name="bacalanjutan">
+    <a href="https://id.wikipedia.org/wiki/Nabi_Nuh">https://id.wikipedia.org/wiki/Nabi_Nuh</a> </string>
+
     --Fragments Bio--
     <string name="ululazmi">Nabi Ulul Azmi</string>
     <string name="ululazmi2">Ulul Azmi (bahasa Arab: أولوالعزم‎, Ulu al-Azmi) adalah sebuah gelar khusus bagi golongan rasul pilihan yang mempunyai ketabahan luar biasa. Terdapat lima rasul yang mendapatkan gelar Ulul Azmi, yakni Nuh, Ibrahim, Musa, Isa dan Muhammad. Gelar Ulul Azmi dijelaskan dalam Surah Al-Ahqaf ayat ke-35 dan Asy-Syura ayat ke-13.</string>

@@ -39,6 +39,7 @@
                     android:orientation="vertical"
                     >
                     <ImageButton
+                        android:id="@+id/ululazmi"
                         android:layout_width="match_parent"
                         android:layout_height="220dp"
                         android:background="@null"
@@ -67,6 +68,7 @@
                             android:textSize="16sp"
                             android:textStyle="bold" />
                         <ImageButton
+                            android:id="@+id/nuh"
                             android:layout_width="match_parent"
                             android:layout_height="220dp"
                             android:background="@null"
@@ -89,6 +91,7 @@
                             android:textSize="16sp"
                             android:textStyle="bold" />
                         <ImageButton
+                            android:id="@+id/ibrahim"
                             android:layout_width="match_parent"
                             android:layout_height="220dp"
                             android:background="@null"
@@ -111,6 +114,7 @@
                             android:textSize="16sp"
                             android:textStyle="bold" />
                         <ImageButton
+                            android:id="@+id/musa"
                             android:layout_width="match_parent"
                             android:layout_height="220dp"
                             android:background="@null"
@@ -133,6 +137,7 @@
                             android:textSize="16sp"
                             android:textStyle="bold" />
                         <ImageButton
+                            android:id="@+id/isa"
                             android:layout_width="match_parent"
                             android:layout_height="220dp"
                             android:background="@null"
@@ -155,6 +160,7 @@
                             android:textSize="16sp"
                             android:textStyle="bold" />
                         <ImageButton
+                            android:id="@+id/muhammad"
                             android:layout_width="match_parent"
                             android:layout_height="220dp"
                             android:background="@null"
